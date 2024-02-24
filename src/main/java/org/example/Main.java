@@ -11,7 +11,7 @@ public class Main {
         String fullName = "Georgi" + " " + "Mariyanov" + " " + "Nikolov";
         int a = 30;
         String email = "gosho93@gmail.com";
-        String adress = "Raiko" + " " + "Daskalov 3";
+        String adress = "Raiko" + " " + "Daskalov 3" + " " + "Devnya";
         String phonenumber = "+359896851557";
         String postcode = "9415";
         String additionalinfo = "mnogo dobar";
