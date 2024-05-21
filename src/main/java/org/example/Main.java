@@ -14,7 +14,7 @@ public class Main {
         String adress = "Raiko" + " " + "Daskalov 3" + " " + "Devnya";
         String phonenumber = "+359896851557";
         String postcode = "9415";
-        String additionalinfo = "mnogo dobar";
+        String additionalinfo = "Студент във ВВМУ "НИКОЛА Й.ВАПЦАРОВ гр.Варна";
         printMyName();
         System.out.println(fullName);
         System.out.println(30);
